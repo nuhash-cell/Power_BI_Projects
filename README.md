@@ -4,13 +4,6 @@
 
 This project focuses on **Manufacturing Operations Monitoring and Reporting** for an affiliate of an **S&P 500 company**. As a **Data Analyst / Power BI Developer**, the goal was to provide comprehensive data insights to support real-time decision-making and operational improvements.
 
-### 🛠️ Role: Data Analyst / Power BI Developer
-
-## 🛠️ Technologies Used
-
-- **Power BI**
-- **MSSQL**
-
 ## 🚀 Key Achievements
 
 - **Data Consolidation**: Integrated data from various sources to create detailed **Power BI dashboards**, enabling management to monitor essential metrics such as:
@@ -43,11 +36,6 @@ The Power BI dashboards created for this project include features like:
 # 🏫 School Management Dashboard Project
 
 This project features an interactive **School Management Dashboard** built using **Power BI**, designed to provide comprehensive insights into key aspects of a school's operations, including student performance, enrollment statistics, and financial metrics.
-
-## 📊 Technologies Used
-
-- **Power BI**: For building interactive dashboards and visualizations.
-- **MSSQL**: For querying and managing the data.
 
 ## 🚀 Key Dashboards
 
