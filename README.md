@@ -81,5 +81,5 @@ This project features an interactive **School Management Dashboard** built using
 For any questions or additional information, please reach out.
 
 - **Author**: MD Shoaib Akhter
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/md-shoaib-akhter/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/md-shoaib-akhter/)
 
